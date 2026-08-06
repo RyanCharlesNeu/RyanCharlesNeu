@@ -9,5 +9,5 @@
 <h2>Connect with me:</h2>
 
 <a href="https://www.linkedin.com/in/ryancharlesneu/" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/linkedin.png" width="32" height="32" alt="LinkedIn"/>
+  <img src="https://img.icons8.com/color/48/linkedin.png" width="32" height="32" alt="LinkedIn"/>
 </a>
