@@ -4,9 +4,9 @@ Junior Mechanical Engineering student at Villanova University, minoring in Mecha
 
 <h2>Robotics and Mechanical Engineering Projects:</h2>
 
-- <b>Autonomous Rover Research: Wheeled Locomotion</b> (L3Harris HAV Lab)
-- <b>LiveLine</b>: Real-Time Power-Line Fault Monitoring Prototype
-- <b>Freedom</b>: 3lb Vertical Spinner Combat Robot
+- <b>Autonomous Rover Research:</b> Wheeled Locomotion (L3Harris HAV Lab)
+- <b>LiveLine:</b> Real-Time Power-Line Fault Monitoring Prototype
+- <b>Freedom:</b> 3lb Vertical Spinner Combat Robot
   
 <h2>Connect with me:</h2>
 
