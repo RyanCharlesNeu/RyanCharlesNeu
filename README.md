@@ -1,7 +1,6 @@
 <h1>Hi, I'm Ryan!</h1>
 
-I'm a Junior Mechanical Engineering student at Villanova University, minoring in Mechatronics and Business. I'm focused on robotics and autonomous systems, with a specific interest in defense and national security applications. Right now I'm working on autonomous rover research, combat robotics, and a real-time monitoring sensor system for power-line infrastructure.
-
+Junior Mechanical Engineering student at Villanova University, minoring in Mechatronics and Business. Focused on robotics and autonomous systems, with a specific interest in defense and national security applications.
 
 <h2>Robotics and Mechanical Engineering Projects:</h2>
 
