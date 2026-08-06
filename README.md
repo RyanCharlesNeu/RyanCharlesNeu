@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ryan! <br/><a </a></h1>
+<h1>Hi, I'm Ryan! <br/></h1>
 
 <h2> Robotics and Mechanical Engineering Projects:</h2>
 
