@@ -1,7 +1,5 @@
 <h1>Hi, I'm Ryan!</h1>
 
-<img src="github_banner_9.svg" width="100%" />
-
 <h2>Robotics and Mechanical Engineering Projects:</h2>
 
 - <b>Autonomous Rover Research: Wheeled Locomotion</b> (L3Harris HAV Lab)
