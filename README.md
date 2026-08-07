@@ -4,10 +4,10 @@ Junior Mechanical Engineering student at Villanova University, minoring in Mecha
 
 <h2>Robotics and Mechanical Engineering Projects:</h2>
 
-- <b>Autonomous Rover Research:</b> Autonomous wheeled rover for collaborative off-road operation within a robot team (L3Harris HAV Lab)
-- <b>LiveLine:</b> Real-Time Power-Line Fault Monitoring Prototype
-- <b>Freedom:</b> 3lb Vertical Spinner Combat Robot
-  
+- <b><a href="https://github.com/RyanCharlesNeu/autonomous-rover-research">Autonomous Rover Research:</a></b> Autonomous wheeled rover for collaborative off-road operation within a robot team (L3Harris HAV Lab)
+- <b><a href="https://github.com/RyanCharlesNeu/LiveLine">LiveLine:</a></b> Real-Time Power-Line Fault Monitoring Prototype
+- <b><a href="https://github.com/RyanCharlesNeu/Freedom">Freedom:</a></b> 3lb Vertical Spinner Combat Robot
+
 <h2>Connect with me:</h2>
 
 <a href="https://www.linkedin.com/in/ryancharlesneu/" target="_blank">
