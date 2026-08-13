@@ -4,7 +4,7 @@ I'm a Junior Mechanical Engineering student at Villanova University, minoring in
 
 <h2>Robotics and Mechanical Engineering Projects:</h2>
 
-- <b><a href="https://github.com/RyanCharlesNeu/autonomous-rover-research">Autonomous Rover Research:</a></b> Autonomous wheeled rover for collaborative off-road operation in a robot team (L3Harris HAV Lab)
+- <b><a href="https://github.com/RyanCharlesNeu/autonomous-rover-research">Autonomous Rover Research:</a></b> Autonomous wheeled rover for collaborative operation in a robot team (L3Harris HAV Lab)
 - <b><a href="https://github.com/RyanCharlesNeu/LiveLine">LiveLine:</a></b> Real-Time Power-Line Fault Monitoring Prototype (L3Harris Endowed Summer Program)
 - <b><a href="https://github.com/RyanCharlesNeu/FREEDOM">FREEDOM:</a></b> 3lb Vertical Spinner Combat Robot (Villanova Combat Robotics Club)
 
