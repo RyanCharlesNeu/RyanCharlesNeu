@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="readme-banner.jpg" width="100%" alt="Robotics, Autonomy, Mechatronics">
+  <img src="https://github.com/user-attachments/assets/4d2bcf0c-ae98-44ce-b9ee-ce62f06803d1" width="100%" alt="Robotics, Autonomy, Mechatronics">
 </p>
 
 <h1>Hi, I'm Ryan!</h1>
