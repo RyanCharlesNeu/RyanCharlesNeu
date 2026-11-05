@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="readme-banner.jpg" width="100%" alt="Robotics, Autonomy, Mechatronics">
+</p>
+
 <h1>Hi, I'm Ryan!</h1>
 
 I'm a Junior Mechanical Engineering student at Villanova University, minoring in Mechatronics and Business. I'm passionate about robotics and autonomous systems, with a specific interest in defense and national security applications. I am actively seeking 2027 Summer Internships in Mechanical Engineering, Systems Engineering, and Robotics.
