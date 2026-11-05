@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="2400" height="1254" alt="linkedin-thumbnail-designed" src="https://github.com/user-attachments/assets/1b99a8f7-7149-45bc-b169-76cac8a31284" />
+<img width="2400" height="752" alt="readme-banner-40" src="https://github.com/user-attachments/assets/6ebd245a-3b63-4819-8014-0fb8adf918cb" />
 </p>
 
 <h1>Hi, I'm Ryan!</h1>
